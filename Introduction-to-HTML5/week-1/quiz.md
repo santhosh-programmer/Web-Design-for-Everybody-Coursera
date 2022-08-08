@@ -101,8 +101,7 @@ What does WAN stand for?
 
 _ANS: Wide Area Network_<hr>
 
-###
-Question 15
+### Question 15
 Which is the correct file extension for a web page?
 
     1) .txt

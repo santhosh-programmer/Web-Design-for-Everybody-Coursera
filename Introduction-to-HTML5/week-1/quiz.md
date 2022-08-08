@@ -71,4 +71,38 @@ the
     4) document
 _ANS: 1) IP address_<hr>
 
+### Question 11
+Which organization is responsible for assigning top-level domain names?
 
+    1) Internet Engineering Task Force (IETF)
+    2) World Wide Web Consortium (W3C)
+    3) Internet Corporation for Assigned Numbers and Names (ICANN)
+_ANS: 3) Internet Corporation for Assigned Numbers and Names (ICANN)_<hr>
+
+### Question 12
+The Request-Response Cycle...
+        
+    1) may require several iterations of the Request-Response Cycle.
+    2) is an outdated process used by HTML 4.1
+    3) is performed once for each requested page.
+_ANS: 1) may require several iterations of the Request-Response Cycle._<hr>
+
+### Question 13
+What does LAN stand for?
+
+_ANS: Local Area Network_<hr>
+
+### Question 14
+What does WAN stand for?
+
+_ANS: Wide Area Network_<hr>
+
+###
+Question 15
+Which is the correct file extension for a web page?
+
+    1) .txt
+    2) .doc
+    3) .html
+    4) .ppt
+_ANS: 3) .html_<hr>

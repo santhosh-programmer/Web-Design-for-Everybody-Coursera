@@ -1,23 +1,27 @@
 # Week One - HTML/Web basics
 
-### Question 1 What does HTML stand for?
+### Question 1 
+What does HTML stand for?
 
 _ANS: Hyper Text Markup Language_<hr>
 
-### Question 2 HTML5 tags have the same semantic meaning, regardless of the browser being used.**
+### Question 2 
+HTML5 tags have the same semantic meaning, regardless of the browser being used.
     
     1) False
     2) True
 _ANS: 2) True_<hr>
 
-### Question 3 FTP stands for
+### Question 3 
+FTP stands for
 
     1) File Transmission Pipe
     2) Files to Push
     3) File Transfer Protocol
 _ANS: 3) File Transfer Protocol_<hr>
 
-### Question 4 HTTP stands for
+### Question 4 
+HTTP stands for
 
     1) Hyper Text Transfer Protocol
     2) Hyper Transfer  Translation Program

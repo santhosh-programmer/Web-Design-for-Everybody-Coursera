@@ -109,3 +109,103 @@ Which is the correct file extension for a web page?
     3) .html
     4) .ppt
 _ANS: 3) .html_<hr>
+
+### Question 16
+HTML uses _________ to annotate documents.  This is a way of marking up the content to identify specific HTML elements.
+
+_ANS: tags_<hr>
+
+### Question 17
+Which of the following best explains the difference between syntax and semantics.
+
+    1) A browser may have trouble displaying a page if the syntax is incorrect.
+    2) Syntax and semantics are interchangeable.
+    3) A browser may have trouble displaying a page if the semantics is incorrect.
+_ANS: 1) A browser may have trouble displaying a page if the syntax is incorrect._<hr>
+
+### Question 18
+The first graphical browser was.... (please use one word answer)
+
+_ANS: mosaic_<hr>
+
+### Question 19
+What are proprietary tags?
+
+   1) Tags that displayed copyright information
+   2) Tags used to define ownership of the content
+   3) Tags that work only on certain browsers
+
+_ANS: 3) Tags that work only on certain browsers_<hr>
+
+### Question 20
+Which of these tags breaks the tenet of the separation of content and layout?
+
+    1) center
+    2) br
+    3) p
+_ANS: 1) center_<hr>
+
+### Question 21
+Which of the following are browsers?
+
+    1) Chrome, Firefox, Safari
+    2) Firefox, Windows, Chrome
+    3) Safari, Mac, Sublime, Chrome
+
+_ANS: 1) Chrome, Firefox, Safari_<hr>
+
+### Question 22
+W3C stands for
+
+    1) World Wide Web Consortium
+    2) WWW Compliance
+    3) World Wide Web Community
+
+_ANS: 1) World Wide Web Consortium_<hr>
+
+### Question 23
+A basic functionality of browsers is to translate HTML documents into viewable webpages.
+
+    1)True
+    2) False
+    
+_ANS: 1) True_<hr>
+
+### Question 24
+Which version of HTML included browser specific features?
+
+    1) HTML 3.2
+    2) HTML 5
+    3) HTML 4.01
+    4) HTML 2.0
+    
+_ANS: 1) HTML 3.2_<hr>
+
+### Question 25
+The predecessor of the internet was
+
+    1) CompuServe
+    2) Arpanet
+    3) DARPA
+    4) Al Gore
+    
+_ANS: 2) Arpanet_<hr>
+
+### Question 26
+URL stands for 
+
+    1) Uniform Resource Locator
+    2) Unordered Resource Location
+    3) Universal Relation Locator
+   
+_ANS: 1) Uniform Resource Locator_<hr>
+
+### Question 27
+_____________  is used to create rules about the color, font, and layout of our pages
+
+_ANS: CSS_<hr>
+
+### Question 28
+CSS1 was introduced for public use in 
+
+_ANS: 1996_<hr>

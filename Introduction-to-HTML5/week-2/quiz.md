@@ -65,7 +65,7 @@ Inline-level elements begin on a new line
 _ANS: 2) False_<hr>
 
 ### Question 8
-A <div> block is an inline-level element
+A \<div> block is an inline-level element
 
     1) True
     2) False
@@ -88,7 +88,7 @@ Which tag represents a line break (new line)?
     3) <line>
     4) <br>
 
-_ANS: 4) <br>_<hr>
+_ANS: 4) \<br>_<hr>
 
 ### Question 11
 Which of the following is the correct way to comment on HTML5?
@@ -98,7 +98,7 @@ Which of the following is the correct way to comment on HTML5?
     3) <!-- HTML -->
     4) <$-- HTML -->
 
-_ANS: 3) <!-- HTML -->_<hr>
+_ANS: 3) \<!-- HTML -->_<hr>
 
 ### Question 12
 Which set of element tags is used to create the highest level heading?
@@ -108,7 +108,7 @@ Which set of element tags is used to create the highest level heading?
     3) <h9>..</h9>
     4) <h6>...</h6>
 
-_ANS: 2) <h1>...</h1>_<hr>
+_ANS: 2) \<h1>...</h1>_<hr>
 
 ### Question 13
 All of the content you wish to appear on the screen should be in which tag?
@@ -118,7 +118,7 @@ All of the content you wish to appear on the screen should be in which tag?
     3) <content>
     4) <html>
 
-_ANS: 2) <body>_<hr>
+_ANS: 2) \<body>_<hr>
 
 ### Question 14
 Which tag is used to create a link?
@@ -128,7 +128,7 @@ Which tag is used to create a link?
     3) <a>
     4) <hyper>
 
-_ANS: 3) <a>_<hr>
+_ANS: 3) \<a>_<hr>
 
 ### Question 15
 Which of the following code is the correct way to link to an email address?
@@ -138,5 +138,5 @@ Which of the following code is the correct way to link to an email address?
     3) <a href= “mailto:shayhowe@awesome.com?subject=Hi&body=How%are%you”>Email</a>
     4) <a href= “mailto:shayhowe@awesome.com?subject=Hi&body=How%20are%20you”>Email<a>
 
-_ANS: 2) <a href= “mailto:shayhowe@awesome.com?subject=Hi&body=How%20are%20you”>Email</a>_<hr>
+_ANS: 2) \<a href= “mailto:shayhowe@awesome.com?subject=Hi&body=How%20are%20you”>Email</a>_<hr>
 

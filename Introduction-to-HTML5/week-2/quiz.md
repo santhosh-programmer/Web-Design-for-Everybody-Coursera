@@ -140,3 +140,12 @@ Which of the following code is the correct way to link to an email address?
 
 _ANS: 2) \<a href= “mailto:shayhowe@awesome.com?subject=Hi&body=How%20are%20you”>Email</a>_<hr>
 
+### Question 16
+Which HTML element is used to define list items?
+
+    1) <item>
+    2) <dl>
+    3) <ul>
+    4) <li>
+
+_ANS: 4) \<li>_<hr>

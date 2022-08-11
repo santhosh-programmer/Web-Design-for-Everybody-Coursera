@@ -149,3 +149,68 @@ Which HTML element is used to define list items?
     4) <li>
 
 _ANS: 4) \<li>_<hr>
+
+### Question 17
+The start attribute defines the number from which an unordered list should start.
+
+    1) True
+    2) False
+
+_ANS: 2) False_<hr>
+
+### Question 18
+The reverse attribute allows a list to appear in a reverse order in an unordered list.
+
+    1) True
+    2) False
+
+_ANS: 2) False_<hr>
+
+### Question 19
+Which attribute can be used to change its number within an ordered list?
+
+    1) num
+    2) skip
+    3) change
+    4) value
+
+_ANS: 4) value_<hr>
+
+### Question 20
+Which code properly creates the nested list structure shown here?
+
+`1. Vegetables
+2. Fruit
+  ·Blueberries
+  ·Bananas`
+
+_ANS:   
+        \<ul>		
+        \<li>Vegetables\</li>	
+        \<li>Fruit\</li>
+        \<ol>				
+           \<li>Blueberries\</li>
+           \<li>Bananas\</li>
+        \</ol>
+        \</ul>_
+<hr>
+
+### Question 21
+The \<ul> and \<ol> elements may contain only \<li> elements.
+
+    1) True
+    2) False
+
+_ANS: 1) True_<hr>
+
+### Question 22
+The tags to create definitions are:
+
+    1) <def>, <dt>, <li>
+    2) <def>, <dt>, <dd>
+    3) <dl>, <term>, <def>
+    4) <dl>, <dt>, <dd>
+
+_ANS: 4) `<dl>, <dt>, <dd>`_<hr>
+
+

@@ -176,6 +176,26 @@ Which attribute can be used to change its number within an ordered list?
 
 _ANS: 4) value_<hr>
 
+### Question 20
+Which code properly creates the nested list structure shown here?
+
+    1. Vegetables
+    2. Fruit
+      ·Blueberries
+      ·Bananas
+
+_ANS:_
+
+    <ol>		
+        <li>Vegetables</li>	
+        <li>Fruit
+           <ul>				
+              <li>Blueberries</li>
+          <li>Bananas</li>
+           </ul>
+        </li>
+    </ol>
+
 ### Question 21
 The \<ul> and \<ol> elements may contain only \<li> elements.
 

@@ -257,4 +257,16 @@ Which of the following is the best way to use a Font Awesome icon to link to Twi
     3) <a href="https://twitter.com/" >  <i class="fa fa-twitter" aria-label="Twitter"></i></a>
     4) <a href="https://twitter.com/">  <i class="fa fa-twitter"></i></a>
 
-_ANS: 1) \<a href="https://twitter.com/" aria-label="Twitter">  <i class="fa fa-twitter"></i></a>_
+_ANS: 1) \<a href="https://twitter.com/" aria-label="Twitter">  <i class="fa fa-twitter"></i></a>_<hr>
+
+### Question 28
+What are the elements to help organize the data and structure of a table?
+
+    1) <caption>, <head>, <body>, <foot>
+    2) <caption>, <thead>, <tbody>, <foot>
+    3) <caption>, <thead>, <tbody>, <tfoot>
+    4) <caption>, <thead>, <body>, <foot>
+
+_ANS: 3) <caption>, <thead>, <tbody>, <tfoot>_<hr>
+
+

@@ -1,4 +1,4 @@
-# Week One - Tags!
+# Tags!
 
 ### Question 1
 Semantics is
@@ -214,4 +214,19 @@ The tags to create definitions are:
 
 _ANS: 4) `<dl>, <dt>, <dd>`_<hr>
 
+### Question 23
+What should target = "_blank" do when included in a link tag?
 
+    1) Opens the link in a new tab or window
+    2) Opens the link in a in a tab called "_blank"
+    3) This is not a valid expression.
+
+_ANS: 1) Opens the link in a new tab or window_<hr>
+
+### Question 24
+In order for the <img> element to work, a src attribute and value must be included to specify the source of the image.
+
+    1) True
+    2) False
+
+_ANS: 1) True_<hr>

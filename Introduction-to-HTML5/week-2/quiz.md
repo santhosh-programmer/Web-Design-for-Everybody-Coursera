@@ -230,3 +230,31 @@ In order for the <img> element to work, a src attribute and value must be includ
     2) False
 
 _ANS: 1) True_<hr>
+
+### Question 25
+The alt text of an image should describe the appearance of an image
+
+    1) True
+    2) False
+
+_ANS: 1) True_<hr>
+
+### Question 26
+When should an image have null (empty) alt text (alt - “”) 
+
+    1) When the image is black and white
+    2) When the image is complex
+    3) When the image is decorative
+    4) When the image already displays descriptive text
+
+_ANS: 3) When the image is decorative_<hr>
+
+### Question 27
+Which of the following is the best way to use a Font Awesome icon to link to Twitter?
+
+    1) <a href="https://twitter.com/" aria-label="Twitter">  <i class="fa fa-twitter"></i></a>
+    2) <a> <i class="fa fa-twitter"></i></a>
+    3) <a href="https://twitter.com/" >  <i class="fa fa-twitter" aria-label="Twitter"></i></a>
+    4) <a href="https://twitter.com/">  <i class="fa fa-twitter"></i></a>
+
+_ANS: 1) \<a href="https://twitter.com/" aria-label="Twitter">  <i class="fa fa-twitter"></i></a>_

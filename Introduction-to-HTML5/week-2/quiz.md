@@ -267,6 +267,28 @@ What are the elements to help organize the data and structure of a table?
     3) <caption>, <thead>, <tbody>, <tfoot>
     4) <caption>, <thead>, <body>, <foot>
 
-_ANS: 3) <caption>, <thead>, <tbody>, <tfoot>_<hr>
+_ANS: 3) \<caption>, \<thead>, \<tbody>, \<tfoot>_<hr>
+
+### Question 29
+What does <thead> stand for?
+
+    1) The head
+    2) Table head
+    3) Table header
+    4) None of the above
+
+_ANS: 2) Table head_<hr>
+
+### Question 30
+Which code will properly insert headings along each row?
+
+_ANS:_
+
+    <table>
+      <tr><th>Name</th><td>Colleen</td></tr>
+      <tr><th>Age</th><td>26</td></tr>
+      <tr><th>Team</th><td>Browns</td></tr>
+    </table>
+<hr>
 
 

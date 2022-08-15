@@ -8,3 +8,5 @@ Contains solutions to quiz and graded assignment for the course: Web Design for 
 
 🎈 [week-2](https://github.com/santhosh-programmer/Web-Design-for-Everybody-Coursera/tree/main/Introduction-to-HTML5/week-2)
 
+🎈 [week-3](https://github.com/santhosh-programmer/Web-Design-for-Everybody-Coursera/tree/main/Introduction-to-HTML5/week-3)
+

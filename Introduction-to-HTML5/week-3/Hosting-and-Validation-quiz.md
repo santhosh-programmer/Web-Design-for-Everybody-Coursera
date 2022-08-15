@@ -53,4 +53,12 @@ To access your cPanel account, you need ...
     
 _ANS: 1) a username and password from your hosting server_<hr>
 
+### Question 4
+To publish your site online you need
+
+    1) a domain name and hosting service
+    2) an account through work or school
+    3) a client
+    
+_ANS: 1) a domain name and hosting service_<hr>
 

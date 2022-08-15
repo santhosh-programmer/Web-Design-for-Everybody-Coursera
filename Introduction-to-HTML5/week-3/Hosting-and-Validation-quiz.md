@@ -62,3 +62,11 @@ To publish your site online you need
     
 _ANS: 1) a domain name and hosting service_<hr>
 
+### Question 5
+To use ftp software to transfer files you will typically need to know your site's ftp address or ip address.
+
+    1) True
+    2) False
+    
+_ANS: 1) True_<hr>
+

@@ -44,4 +44,13 @@ What validation error will this code produce?
 
 _ANS: 1) Element head is missing a required instance of child element title._<hr>
 
+### Question 3
+To access your cPanel account, you need ...
+
+    1) a username and password from your hosting server
+    2) the username and password for your computer
+    3) the port number for your account
+    
+_ANS: 1) a username and password from your hosting server_<hr>
+
 

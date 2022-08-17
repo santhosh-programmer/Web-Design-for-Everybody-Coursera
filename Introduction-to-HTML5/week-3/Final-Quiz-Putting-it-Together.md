@@ -97,4 +97,18 @@ _ANS:_
     
 <hr>
 
+### Question 8
+What is the best/proper way to create a footer that has an image, paragraph, and link?  Be careful, that paragraph includes a special entity.
+
+_ANS:_
+
+    <footer>
+    <p>
+        <img src="http://www.intro-webdesign.com/images/newlogo.png" alt="new logo">
+        This page was created by Troy &amp; Colleen van Lent. To learn more about web design, visit
+        <a href="http://www.intro-webdesign.com">Intro to Web Design</a>
+      </p>
+    </footer>
+    
+<hr>
 

@@ -21,3 +21,15 @@ Which is the best/proper way to declare that the language for your page is Engli
   5) \<html lang="english">
   
 _ANS: 2) \<html lang="en">_<hr>
+
+### Question 3
+What is the best/proper way to create the meta-data for your page?
+
+_ANS:_
+
+    <head>
+      <meta charset="utf-8">
+      <title>Mister Rogers</title>
+    </head>
+ 
+ <hr>

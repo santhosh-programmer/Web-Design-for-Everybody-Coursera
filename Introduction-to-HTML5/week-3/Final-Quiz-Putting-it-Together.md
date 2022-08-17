@@ -67,3 +67,24 @@ _ANS:_
     </section>
     
 <hr>
+
+### Question 6
+Which is the best/proper way to declare a section that has an h2 heading and three progress elements?
+
+_ANS:_
+
+    <section>
+       <h2>Achievements</h2>
+          <p>Progress in this course (100%)<progress value="1"></progress><br/>
+          Progress in the Specialization capstone (20%)<progress value="20" max="100"></progress><br/>
+          Progress in life goals (70%)<progress value="70" max="100"></progress></p>
+    </section>
+    
+<hr>
+
+### Question 7
+What is the best/proper way to declare a section that has an h2 heading and uses a detail tag?
+
+_ANS:_
+
+

@@ -33,3 +33,20 @@ _ANS:_
     </head>
  
  <hr>
+
+### Question 4
+Which is the best/proper way to declare the header for a page?\
+
+_ANS:_
+
+    <header>
+        <h1>Mister Rogers</h1>
+        <nav>
+      <a href="one.html">one</a>
+      <a href="two.two.html">two</a>
+      <a href="three.html">three</a>
+      <a href="songs.html">Songs</a>
+        </nav>
+    </header>
+    
+<hr>

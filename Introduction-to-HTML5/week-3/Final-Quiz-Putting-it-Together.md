@@ -50,3 +50,20 @@ _ANS:_
     </header>
     
 <hr>
+
+### Question 5
+Which is the best/proper way to declare a section that has an h2 heading and an unordered list?
+
+_ANS:_
+
+    <section>
+      <h2>Favorite Foods</h2>
+      <ul>
+        <li>stuff</li>
+        <li>more</li>
+        <li>stuff</li>
+        <li>again</li>
+      </ul>
+    </section>
+    
+<hr>

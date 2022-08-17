@@ -87,4 +87,14 @@ What is the best/proper way to declare a section that has an h2 heading and uses
 
 _ANS:_
 
+    <section>
+       <h2>More about me</h2>
+       <details open>
+      <summary>My Childhood</summary>
+      <p>stuff happened, I grew up</p>
+       </details>
+    </section>
+    
+<hr>
+
 

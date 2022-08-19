@@ -55,6 +55,16 @@ What happens if the browser doesn't support Cursive or Helvetica?
     
 _ANS: 2) The text will be displayed in Verdana_<hr>
 
+### Question 5
+The browser defaults override rules specified in an external style sheets.
+
+    1) True
+    2) False
+    
+_ANS: 2) False_<hr>
+
+
+
     
     
     

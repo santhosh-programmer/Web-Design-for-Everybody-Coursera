@@ -23,3 +23,19 @@ If your body tag uses the style attribute style="text-align:center", you can ove
     2) False
 
 _ANS: 2) False_<hr>
+
+### Question 3
+What is wrong with the following code?
+
+    body{
+       color: #000000;
+       background-color:#FFFFFF
+       font-family: Times, Arial, Cursive;
+    }
+<br>
+
+    1) There is a missing semicolon
+    2) You can't style three properties in a single rule
+    3) This is a valid rule
+    
+_ANS: 1) There is a missing semicolon_<hr>

@@ -63,6 +63,27 @@ The browser defaults override rules specified in an external style sheets.
     
 _ANS: 2) False_<hr>
 
+### Question 6
+Using the code below, will the body of the page have the background-color defined in the file style.css or the background color define in the <style> tag?
+    
+    <head>
+        <meta charset = "UTF-8">
+        <title>Test code</title>
+        <link rel "stylesheet" href = "style.css">
+        <style>
+            body{
+                background-color: #44CCDD;
+            }
+        </style>
+    </head>
+<br>
+    
+
+    1) <style>
+    2) style.css
+
+_ANS: 1) <style>_<hr>
+
 
 
     

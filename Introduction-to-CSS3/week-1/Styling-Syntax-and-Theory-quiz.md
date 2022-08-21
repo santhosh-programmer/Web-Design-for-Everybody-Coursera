@@ -101,8 +101,17 @@ The default display value for paragraphs is:
     4) none
     
 _ANS: 1) block_<hr>
-
     
+### Question 9
+The default display value for <span> is:
+
+    1) inline
+    2) none
+    3) inline-block
+    4) block
+
+_ANS: 1) inline_<hr>
+
     
     
     

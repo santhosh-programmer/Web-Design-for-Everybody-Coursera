@@ -120,7 +120,13 @@ A block element takes up the full width of it's parent, even if the content is s
     
 _ANS: 1) True_<hr>
 
-    
+### Question 11
+Inline elements take up the full width of the browser, even if the content is smaller than the browser size.
+
+    1) True
+    2) False
+
+_ANS: 2) False_<hr>
     
     
     

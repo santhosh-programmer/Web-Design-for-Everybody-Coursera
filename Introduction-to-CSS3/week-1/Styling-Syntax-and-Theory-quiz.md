@@ -134,8 +134,15 @@ Which CSS3 property is used to center text?  (Provide on the property, not the v
     text-align
 <hr>
 
-    
-    
+### Question 13
+Which of the following is the best way to convey that your text has special meaning?
+
+    1) Using colors to signify the important text
+    2) Using semantic tags in addition to color and/or font.
+    3) Using a combination of font size and color to signify the important text
+    4) Using a larger font size to signify the important text  
+
+_ANS: 2) Using semantic tags in addition to color and/or font._
     
     
     

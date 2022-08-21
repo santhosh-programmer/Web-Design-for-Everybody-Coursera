@@ -128,6 +128,12 @@ Inline elements take up the full width of the browser, even if the content is sm
 
 _ANS: 2) False_<hr>
     
+### Question 12
+Which CSS3 property is used to center text?  (Provide on the property, not the value!)
+    
+    text-align
+<hr>
+
     
     
     

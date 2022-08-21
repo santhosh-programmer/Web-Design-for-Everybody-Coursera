@@ -84,7 +84,13 @@ Using the code below, will the body of the page have the background-color define
 
 _ANS: 1) <style>_<hr>
 
+### Question 7
+Internal styling (rules specified in the <head> section) override rules specified with the style attribute in a tag.
 
+    1) True
+    2) False
+    
+_ANS: 2) False_<hr>
 
     
     

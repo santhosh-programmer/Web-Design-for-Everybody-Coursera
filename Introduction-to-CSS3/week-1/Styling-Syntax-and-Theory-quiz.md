@@ -91,6 +91,16 @@ Internal styling (rules specified in the <head> section) override rules specifie
     2) False
     
 _ANS: 2) False_<hr>
+    
+### Question 8
+The default display value for paragraphs is:
+
+    1) block
+    2) inline-block
+    3) inline
+    4) none
+    
+_ANS: 1) block_<hr>
 
     
     

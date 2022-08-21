@@ -144,14 +144,3 @@ Which of the following is the best way to convey that your text has special mean
 
 _ANS: 2) Using semantic tags in addition to color and/or font._<hr>
     
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    

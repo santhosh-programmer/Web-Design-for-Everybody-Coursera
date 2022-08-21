@@ -111,6 +111,14 @@ The default display value for <span> is:
     4) block
 
 _ANS: 1) inline_<hr>
+    
+### Question 10
+A block element takes up the full width of it's parent, even if the content is smaller than the parent.  So two block elements at the same will not be side-by-side.
+    
+    1) True
+    2) False
+    
+_ANS: 1) True_<hr>
 
     
     

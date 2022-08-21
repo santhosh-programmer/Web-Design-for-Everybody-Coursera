@@ -142,7 +142,7 @@ Which of the following is the best way to convey that your text has special mean
     3) Using a combination of font size and color to signify the important text
     4) Using a larger font size to signify the important text  
 
-_ANS: 2) Using semantic tags in addition to color and/or font._
+_ANS: 2) Using semantic tags in addition to color and/or font._<hr>
     
     
     

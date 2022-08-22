@@ -13,3 +13,5 @@ Contains solutions to quiz and graded assignment for the course: Web Design for 
 ## [Introduction to CSS3](https://github.com/santhosh-programmer/Web-Design-for-Everybody-Coursera/tree/main/Introduction-to-CSS3)
 
 🎈 [week-1](https://github.com/santhosh-programmer/Web-Design-for-Everybody-Coursera/tree/main/Introduction-to-CSS3/week-1)
+
+🎈 [week-2](https://github.com/santhosh-programmer/Web-Design-for-Everybody-Coursera/tree/main/Introduction-to-CSS3/week-2)

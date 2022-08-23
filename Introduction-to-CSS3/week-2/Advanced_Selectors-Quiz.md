@@ -28,7 +28,7 @@ Assume that this code is linked together correctly.
     3) black
     4) browser default
    
-_ ANS: 3) black_<hr>
+_ ANS: 1) red_<hr>
 
 ### Question 2
 Assume that this code is linked together correctly.
@@ -53,7 +53,12 @@ Assume that this code is linked together correctly.
     
 What color font is used to display "Hi"?
 
-_ANS: _<hr>
+    1) red
+    2) green
+    3) black
+    4) browser default
+
+_ANS: 3) black_<hr>
 
 ### Question 3
 Assume that this code is linked together correctly.
@@ -78,7 +83,12 @@ Assume that this code is linked together correctly.
     
 What color font is used to display "Hi"?
 
-_ANS: _<hr>
+    1) red
+    2) green
+    3) black
+    4) browser default
+
+_ANS: 3) black_<hr>
 
 ### Question 4
 What is the correct HTML for referring to an external style sheet?

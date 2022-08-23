@@ -22,6 +22,11 @@ Assume that this code is linked together correctly.
     <p class = "plain fancy">Hi</p>
     
  What color font is used to display "Hi"?
+ 
+    1) red
+    2) green
+    3) black
+    4) browser default
    
 _ ANS: _<hr>
 
@@ -78,4 +83,12 @@ _ANS: _<hr>
 ### Question 4
 What is the correct HTML for referring to an external style sheet?
 
-_ANS: _<hr>
+    1) <link rel="stylesheet" url="mystyle.css">
+    2) <style src="mystyle.css"></style>
+    3) <link rel="stylesheet" href="mystyle.css">
+    4) <link rel="stylesheet" src="mystyle.css">
+
+_ANS: _
+
+    3) <link rel="stylesheet" href="mystyle.css">
+<hr>

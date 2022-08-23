@@ -19,7 +19,7 @@ Assume that this code is linked together correctly.
     }  
 <br>
 
-    <p class = "plain fancy">Hi</p>
+    <p>Hi</p>
     
  What color font is used to display "Hi"?
  
@@ -28,7 +28,7 @@ Assume that this code is linked together correctly.
     3) black
     4) browser default
    
-_ ANS: _<hr>
+_ ANS: 3) black_<hr>
 
 ### Question 2
 Assume that this code is linked together correctly.

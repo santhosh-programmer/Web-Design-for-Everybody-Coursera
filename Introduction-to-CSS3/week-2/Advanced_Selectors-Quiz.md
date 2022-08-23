@@ -28,7 +28,7 @@ Assume that this code is linked together correctly.
     3) black
     4) browser default
    
-_ ANS: 1) red_<hr>
+_ANS: 1) red_ <hr>
 
 ### Question 2
 Assume that this code is linked together correctly.
@@ -98,7 +98,7 @@ What is the correct HTML for referring to an external style sheet?
     3) <link rel="stylesheet" href="mystyle.css">
     4) <link rel="stylesheet" src="mystyle.css">
 
-_ANS: _
+_ANS:_
 
     3) <link rel="stylesheet" href="mystyle.css">
 <hr>

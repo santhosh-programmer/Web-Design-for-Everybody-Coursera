@@ -74,3 +74,8 @@ Assume that this code is linked together correctly.
 What color font is used to display "Hi"?
 
 _ANS: _<hr>
+
+### Question 4
+What is the correct HTML for referring to an external style sheet?
+
+_ANS: _<hr>

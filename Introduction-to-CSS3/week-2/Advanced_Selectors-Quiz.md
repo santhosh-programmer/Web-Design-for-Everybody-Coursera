@@ -120,3 +120,13 @@ The style tag and the style attribute are interchangeable -- this means that you
     2) False
 
 _ANS: 1) True_<hr>
+
+### Question 7
+Which CSS property controls the text size?
+
+    1) font-size
+    2) text-size
+    3) text-style
+    4) font-height
+
+_ANS: 1) font-size_<hr>

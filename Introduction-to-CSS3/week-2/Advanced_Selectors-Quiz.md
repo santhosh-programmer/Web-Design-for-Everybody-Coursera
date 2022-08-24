@@ -130,3 +130,13 @@ Which CSS property controls the text size?
     4) font-height
 
 _ANS: 1) font-size_<hr>
+
+### Question 8
+How do you display hyperlinks without an underline?
+
+    1) a {text-decoration:no-underline;} 
+    2) a { text-decoration:none; } 
+    3) a {decoration:no-underline;} 
+    4) a {underline:none;} 
+
+_ANS: 2) a { text-decoration:none; }_<hr> 

@@ -102,3 +102,13 @@ _ANS:_
 
     3) <link rel="stylesheet" href="mystyle.css">
 <hr>
+
+### Question 5
+What is the correct HTML for referring to an external style sheet stored in a subfolder called css?
+
+     1) <link rel="css/stylesheet" href="css/mystyle.css"> 
+     2) <style src="css/mystyle.css">
+     30 <link rel="stylesheet" href="css/mystyle.css"> 
+     4) <link rel="css/stylesheet" href="mystyle.css">
+     
+_ANS: 3) <link rel="stylesheet" href="css/mystyle.css">_<hr>

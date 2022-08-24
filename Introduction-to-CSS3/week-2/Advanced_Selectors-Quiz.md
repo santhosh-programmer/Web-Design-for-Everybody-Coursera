@@ -111,4 +111,12 @@ What is the correct HTML for referring to an external style sheet stored in a su
      30 <link rel="stylesheet" href="css/mystyle.css"> 
      4) <link rel="css/stylesheet" href="mystyle.css">
      
-_ANS: 3) <link rel="stylesheet" href="css/mystyle.css">_<hr>
+_ANS: 3) \<link rel="stylesheet" href="css/mystyle.css">_<hr>
+
+### Question 6
+The style tag and the style attribute are interchangeable -- this means that you accomplish the same effect with both.
+
+    1) True
+    2) False
+
+_ANS: 1) True_<hr>

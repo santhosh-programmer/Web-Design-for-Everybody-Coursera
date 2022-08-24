@@ -119,7 +119,7 @@ The style tag and the style attribute are interchangeable -- this means that you
     1) True
     2) False
 
-_ANS: 1) True_<hr>
+_ANS: 1) False_<hr>
 
 ### Question 7
 Which CSS property controls the text size?

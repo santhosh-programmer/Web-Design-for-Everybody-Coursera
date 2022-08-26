@@ -163,3 +163,13 @@ The # symbol specifies that the selector is a/an
     4) id
 
 _ANS: _<hr>
+
+### Question 11
+Which of the following would be used to create  class called button which has a width of 750px, a height of 30px and the color of the text is black?
+
+    1) #button { height: 30px; width: 750px; text: black; } 
+    2) .button { height: 30px; width: 750px; color: black; } 
+    3) #button { height: 30px; width: 750px; color: black; } 
+    4) .button { height: 30px; width: 750px; text: black; } 
+    
+_ANS: _<hr>

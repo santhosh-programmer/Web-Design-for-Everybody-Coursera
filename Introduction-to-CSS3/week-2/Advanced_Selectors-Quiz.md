@@ -183,3 +183,29 @@ Which snippet of CSS is commonly used to center an element horizontally?
     4) margin: center; 
 
 _ANS: 1) margin: 0 auto;_<hr>
+
+### Question 13
+Using only a default style sheet..
+
+    1) will typically make your page look better.
+    2) will typically make your page look worse.
+    3) will typically have no effect on the appearance of your page.
+
+_ANS: _<hr>
+
+###14.
+Question 14
+Which of the following is not a browser prefix?
+
+1 point
+
+o
+
+
+webkit
+
+
+edge
+
+
+moz

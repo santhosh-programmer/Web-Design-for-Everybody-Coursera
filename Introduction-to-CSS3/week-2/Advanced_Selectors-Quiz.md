@@ -201,7 +201,7 @@ Which of the following is not a browser prefix?
     3) edge
     4) moz
 
-_ANS: _<hr>
+_ANS: 3) edge_<hr>
 
 ### Question 15
 Descendant selectors

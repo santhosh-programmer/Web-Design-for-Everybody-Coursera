@@ -202,3 +202,25 @@ Which of the following is not a browser prefix?
     4) moz
 
 _ANS: _<hr>
+
+### Question 15
+Descendant selectors
+
+    nav a{
+      ....
+    }
+
+are more general  than child selectors
+
+    nav>a{
+      ....
+    }
+    
+
+    1) True
+    2) False
+
+_ANS: _<hr>
+
+### Question 16
+How much width will this div occupy?

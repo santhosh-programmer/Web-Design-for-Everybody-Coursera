@@ -173,3 +173,13 @@ Which of the following would be used to create  class called button which has a 
     4) .button { height: 30px; width: 750px; text: black; } 
     
 _ANS: _<hr>
+
+### Question 12
+Which snippet of CSS is commonly used to center an element horizontally?
+
+    1) margin: 0 auto; 
+    2) margin: auto 0; 
+    3) site-align: center; 
+    4) margin: center; 
+
+_ANS: _<hr>

@@ -152,7 +152,7 @@ In the following code snippet, what value is given for the left margin?
     3) 3px
     4) 8px
 
-_ANS: _<hr>
+_ANS: 4) 8px_<hr>
 
 ### Question 10
 The # symbol specifies that the selector is a/an
@@ -162,7 +162,7 @@ The # symbol specifies that the selector is a/an
     3) first
     4) id
 
-_ANS: _<hr>
+_ANS: 4) id_<hr>
 
 ### Question 11
 Which of the following would be used to create  class called button which has a width of 750px, a height of 30px and the color of the text is black?
@@ -172,7 +172,7 @@ Which of the following would be used to create  class called button which has a 
     3) #button { height: 30px; width: 750px; color: black; } 
     4) .button { height: 30px; width: 750px; text: black; } 
     
-_ANS: _<hr>
+_ANS: 2) .button { height: 30px; width: 750px; color: black; }_<hr>
 
 ### Question 12
 Which snippet of CSS is commonly used to center an element horizontally?
@@ -182,4 +182,4 @@ Which snippet of CSS is commonly used to center an element horizontally?
     3) site-align: center; 
     4) margin: center; 
 
-_ANS: _<hr>
+_ANS: 1) margin: 0 auto;_<hr>

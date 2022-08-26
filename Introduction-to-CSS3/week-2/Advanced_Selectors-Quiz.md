@@ -191,7 +191,7 @@ Using only a default style sheet..
     2) will typically make your page look worse.
     3) will typically have no effect on the appearance of your page.
 
-_ANS: _<hr>
+_ANS: 2) will typically make your page look worse._<hr>
 
 ### Question 14
 Which of the following is not a browser prefix?

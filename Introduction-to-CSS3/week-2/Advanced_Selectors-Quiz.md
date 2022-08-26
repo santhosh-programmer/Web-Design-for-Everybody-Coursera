@@ -193,19 +193,12 @@ Using only a default style sheet..
 
 _ANS: _<hr>
 
-###14.
-Question 14
+### Question 14
 Which of the following is not a browser prefix?
 
-1 point
+    1) o
+    2) webkit
+    3) edge
+    4) moz
 
-o
-
-
-webkit
-
-
-edge
-
-
-moz
+_ANS: _<hr>

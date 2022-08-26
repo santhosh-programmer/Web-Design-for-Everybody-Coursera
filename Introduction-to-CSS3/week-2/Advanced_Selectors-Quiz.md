@@ -140,3 +140,24 @@ How do you display hyperlinks without an underline?
     4) a {underline:none;} 
 
 _ANS: 2) a { text-decoration:none; }_<hr> 
+
+### Question 9
+In the following code snippet, what value is given for the left margin?
+
+    margin: 5px 10px 3px 8px;
+<br>
+
+    1) 5px
+    2) 10px
+    3) 3px
+    4) 8px
+
+_ANS: _<hr>
+
+### Question 10
+The # symbol specifies that the selector is a/an
+
+    1) class
+    2) tag
+    3) first
+    4) id

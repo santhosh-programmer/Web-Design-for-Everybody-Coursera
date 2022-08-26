@@ -224,3 +224,12 @@ _ANS: _<hr>
 
 ### Question 16
 How much width will this div occupy?
+
+    div{
+       width:100px;
+       padding: 10px;
+       margin: 5px;
+       border: 2px;
+    }
+
+_ANS: _<hr>

@@ -220,7 +220,7 @@ are more general  than child selectors
     1) True
     2) False
 
-_ANS: _<hr>
+_ANS: 1) True_<hr>
 
 ### Question 16
 How much width will this div occupy?

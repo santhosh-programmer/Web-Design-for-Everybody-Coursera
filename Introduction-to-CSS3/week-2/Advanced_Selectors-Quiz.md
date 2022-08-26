@@ -58,7 +58,7 @@ What color font is used to display "Hi"?
     3) black
     4) browser default
 
-_ANS: 3) black _<hr>
+_ANS: 3) black_<hr>
 
 ### Question 3
 Assume that this code is linked together correctly.

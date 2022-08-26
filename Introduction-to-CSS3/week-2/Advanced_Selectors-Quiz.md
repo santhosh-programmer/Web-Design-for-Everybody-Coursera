@@ -232,4 +232,4 @@ How much width will this div occupy?
        border: 2px;
     }
 
-_ANS: _<hr>
+_ANS: 134px_<hr>

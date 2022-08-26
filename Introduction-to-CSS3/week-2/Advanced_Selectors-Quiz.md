@@ -28,7 +28,7 @@ Assume that this code is linked together correctly.
     3) black
     4) browser default
    
-_ANS: 1) red_ <hr>
+_ANS: 1) red_<hr>
 
 ### Question 2
 Assume that this code is linked together correctly.

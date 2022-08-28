@@ -48,3 +48,18 @@ How much horizontal space ("width") will  this div use?
 
 _ANS: 84px_<hr>
 
+### Question 6
+How much vertical space ("height") will  this div use?
+
+    div{
+       height:50px;
+       padding: 5px 10px;
+       margin: 5px;
+       border: 2px;
+    }
+
+_ANS: 74px_<hr>
+
+
+
+

@@ -27,3 +27,11 @@ Padding is...
     3) The space between an element and its border
 
 _ANS: 3) The space between an element and its border_<hr>
+
+### Question 4
+The padding and margin properties can be styled with unique colors.
+
+    1) True
+    2) False
+
+_ANS: 2) False_<hr>

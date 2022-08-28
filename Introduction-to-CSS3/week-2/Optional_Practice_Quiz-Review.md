@@ -65,5 +65,17 @@ Which property can remove the underline from links? (Only provide the property n
 
 _ANS: text-decoration_<hr>
 
+### Question 8
+The property/value pair
 
+    list-style-type:upper-roman;
+
+is best used to visually alter:
+
+    1) ordered lists
+    2) unordered lists
+    3) both ordered and unordered lists
+
+_ANS: 1) ordered lists_<hr>
+  
 

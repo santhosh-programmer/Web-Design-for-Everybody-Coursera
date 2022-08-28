@@ -18,3 +18,12 @@ The margin is the space between elements.
     2) False
 
 _ANS: 1)True_<hr>
+
+### Question 3
+Padding is...
+
+    1) The space reserved for an element
+    2) The space between two elements
+    3) The space between an element and its border
+
+_ANS: 3) The space between an element and its border_<hr>

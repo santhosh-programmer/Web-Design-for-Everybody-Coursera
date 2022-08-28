@@ -96,3 +96,12 @@ are more specific than child selectors
     2) False
 
 _ANS: 2) False_<hr>
+
+### Question 10
+The id selectors are part of the DOM.
+
+    1) True
+    2) False
+
+_ANS: 1) True_<hr>
+

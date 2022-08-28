@@ -60,6 +60,10 @@ How much vertical space ("height") will  this div use?
 
 _ANS: 74px_<hr>
 
+### Question 7
+Which property can remove the underline from links? (Only provide the property name; do not give it a value.)
+
+_ANS: text-decoration_<hr>
 
 
 

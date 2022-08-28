@@ -58,7 +58,7 @@ How much vertical space ("height") will  this div use?
        border: 2px;
     }
 
-_ANS: 74px_<hr>
+_ANS: 74px_<hr>                 
 
 ### Question 7
 Which property can remove the underline from links? (Only provide the property name; do not give it a value.)
@@ -113,3 +113,15 @@ The class selectors are part of the DOM
 
 _ANS: 1) True_<hr>
 
+### Question 12
+What is true about this code?
+
+    <p class = "fancy box"> ....</p>
+<br>
+
+    1) It is not legal to have two words ("fancy box") within the class.
+    2) The fancy styling will take precedence over the box styling.
+    3) The box styling will take precedence over the fancy styling.
+    4) From this code, you can't know which styling will take precedence. 
+    
+_ANS: 4) From this code, you can't know which styling will take precedence._<hr>

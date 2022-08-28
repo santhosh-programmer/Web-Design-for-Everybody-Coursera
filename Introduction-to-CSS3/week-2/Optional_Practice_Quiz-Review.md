@@ -105,3 +105,11 @@ The id selectors are part of the DOM.
 
 _ANS: 1) True_<hr>
 
+### Question 11
+The class selectors are part of the DOM
+
+    1) True
+    2) False
+
+_ANS: 1) True_<hr>
+

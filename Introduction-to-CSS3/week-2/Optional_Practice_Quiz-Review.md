@@ -78,4 +78,21 @@ is best used to visually alter:
 
 _ANS: 1) ordered lists_<hr>
   
+### Question 9
+Descendant selectors  
 
+    nav a{
+      ....
+    }
+
+are more specific than child selectors
+
+    nav>a{
+      ....
+    }
+    
+
+    1) True
+    2) False
+
+_ANS: 1) True_<hr>

@@ -125,3 +125,16 @@ What is true about this code?
     4) From this code, you can't know which styling will take precedence. 
     
 _ANS: 4) From this code, you can't know which styling will take precedence._<hr>
+
+### Question 13
+This is probably a typo, why?
+
+    .body{
+       margin: 10px;
+    }
+<br>
+
+    1) The period in front of the word body means the browser will look for a class called body, not the element.
+    2) The period in front of the word body means the browser will look for an id called body, not the element.
+
+_ANS: 1) The period in front of the word body means the browser will look for a class called body, not the element._<hr>

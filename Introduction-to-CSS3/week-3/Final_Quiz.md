@@ -9,3 +9,18 @@ The default value for the position property is:
     4) static
 
 _ANS: 4) static_<hr>
+
+### Question 2
+What is wrong with this code?
+
+    div{
+       position: static;
+       left: 10px;
+    }
+<br>
+
+    1) There is nothing wrong with this code.
+    2) "static" is not a valid option for position
+    3) The code works, but the left property is not necessary since static elements don't allow offsets
+
+_ANS: _<hr>

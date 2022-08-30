@@ -48,7 +48,12 @@ _ANS:_
 ### Question 5
 Which of the following rules styles the first paragraph in each div?
 
-ANS: 
+_ANS:_
+
+    div p:first-child { 
+       color: blue;
+    } 
+<hr>
 
 ### Question 6
 Which CSS3 property allows you to change property values smoothly over a given duration?

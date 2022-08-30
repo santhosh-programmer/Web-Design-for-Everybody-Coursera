@@ -69,3 +69,9 @@ _ANS: z-index_<hr>
 Which rule will change the text color of p elements with the class "highlight" when hovered over?
 
 _ANS: _<hr>
+
+### Question 9
+What are the four principles of Accessibility?
+
+
+_ANS: _<hr>

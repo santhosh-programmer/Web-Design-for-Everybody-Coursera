@@ -34,3 +34,7 @@ If you want your navigation bar to remain visible, even when the user scrolls do
     4) fixed
 
 _ANS: 4) fixed_<hr>
+
+### Question 4
+Which of the following is the proper syntax for a pseudo-class?
+

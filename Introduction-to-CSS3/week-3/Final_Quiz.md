@@ -23,4 +23,14 @@ What is wrong with this code?
     2) "static" is not a valid option for position
     3) The code works, but the left property is not necessary since static elements don't allow offsets
 
-_ANS: _<hr>
+_ANS: 3) The code works, but the left property is not necessary since static elements don't allow offsets_<hr>
+
+### Question 3
+If you want your navigation bar to remain visible, even when the user scrolls downward, you should use which type of positioning?
+
+    1) static
+    2) relative
+    3) absolute
+    4) fixed
+
+_ANS: 4) fixed_<hr>

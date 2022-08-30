@@ -73,5 +73,9 @@ _ANS: _<hr>
 ### Question 9
 What are the four principles of Accessibility?
 
+    1) USE
+    2) WEBAIM
+    3) PORE
+    4) POUR
 
-_ANS: _<hr>
+_ANS: 4) POUR_<hr>

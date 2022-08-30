@@ -8,4 +8,4 @@ The default value for the position property is:
     3) absolute
     4) static
 
-_ANS: _<hr>
+_ANS: 4) static_<hr>

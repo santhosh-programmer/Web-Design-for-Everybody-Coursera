@@ -49,3 +49,13 @@ _ANS:_
 Which of the following rules styles the first paragraph in each div?
 
 ANS: 
+
+### Question 6
+Which CSS3 property allows you to change property values smoothly over a given duration?
+
+    1) focus
+    2) hover
+    3) change
+    4) transition
+    
+_ANS: _<hr>

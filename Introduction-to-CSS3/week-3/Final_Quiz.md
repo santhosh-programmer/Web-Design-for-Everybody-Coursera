@@ -38,3 +38,9 @@ _ANS: 4) fixed_<hr>
 ### Question 4
 Which of the following is the proper syntax for a pseudo-class?
 
+_ANS:_
+
+        selector::pseudo-class { 
+           property:value;
+        }
+ <hr>

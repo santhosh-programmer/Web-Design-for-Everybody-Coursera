@@ -64,3 +64,8 @@ _ANS: _<hr>
 Sometimes elements overlap one another.  Which property specifies the stacking order of the elements?  (A high value means it is more likely to be place in front of another.)  ONLY PROVIDE THE PROPERTY, NOT A VALUE.
 
 _ANS: z-index_<hr>
+
+### Question 8
+Which rule will change the text color of p elements with the class "highlight" when hovered over?
+
+_ANS: _<hr>

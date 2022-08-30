@@ -40,7 +40,7 @@ Which of the following is the proper syntax for a pseudo-class?
 
 _ANS:_
 
-        selector::pseudo-class { 
+        selector:pseudo-class { 
            property:value;
         }
  <hr>

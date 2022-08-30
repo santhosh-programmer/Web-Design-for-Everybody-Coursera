@@ -44,3 +44,8 @@ _ANS:_
            property:value;
         }
  <hr>
+
+### Question 5
+Which of the following rules styles the first paragraph in each div?
+
+ANS: 

@@ -13,7 +13,7 @@ h1{
     color: #ffffff;
     font-family: serif;
     font-size: 40px;;
-    font-variant-caps:all-small-caps;
+    text-transform: lowercase;
 }
 a{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;

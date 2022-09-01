@@ -13,7 +13,7 @@ Contains solutions to quiz and graded assignment for the course: Web Design for 
 🎈 [week-3](https://github.com/santhosh-programmer/Web-Design-for-Everybody-Coursera/tree/main/Introduction-to-HTML5/week-3)<br><pre>
 • [Final Quiz - Putting it Together](https://github.com/santhosh-programmer/Web-Design-for-Everybody-Coursera/blob/main/Introduction-to-HTML5/week-3/Final-Quiz-Putting-it-Together.md)<br>
 • [Hosting and Validation](https://github.com/santhosh-programmer/Web-Design-for-Everybody-Coursera/blob/main/Introduction-to-HTML5/week-3/Hosting-and-Validation-quiz.md)<br>
-• [Peer-graded-Assignment: Final-Project](https://github.com/santhosh-programmer/Web-Design-for-Everybody-Coursera/blob/main/Introduction-to-HTML5/week-2/Tags!-quiz.md)</pre>
+• [Peer-graded-Assignment: Final-Project](https://github.com/santhosh-programmer/Web-Design-for-Everybody-Coursera/blob/main/Introduction-to-HTML5/week-3/Peer-graded-Assignment:Final-Project.html)</pre>
 
 ## [Introduction to CSS3](https://github.com/santhosh-programmer/Web-Design-for-Everybody-Coursera/tree/main/Introduction-to-CSS3)
 

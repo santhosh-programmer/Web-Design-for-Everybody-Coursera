@@ -20,14 +20,14 @@ Contains solutions to quiz and graded assignment for the course: Web Design for 
 
 ## [Introduction to CSS3](https://github.com/santhosh-programmer/Web-Design-for-Everybody-Coursera/tree/main/Introduction-to-CSS3)
 
-🎈 [week-1](https://github.com/santhosh-programmer/Web-Design-for-Everybody-Coursera/tree/main/Introduction-to-CSS3/week-1)
+🎈 [**week-1**](https://github.com/santhosh-programmer/Web-Design-for-Everybody-Coursera/tree/main/Introduction-to-CSS3/week-1)
 
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> • [Styling Syntax and Theory quiz](Introduction-to-CSS3/week-1/Styling-Syntax-and-Theory-quiz.md)<br>
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> • [Your First Styled Site-Assignment](Introduction-to-CSS3/week-1/Your_First_Styled_Site-Assignment.css)
 
-🎈 [week-2](https://github.com/santhosh-programmer/Web-Design-for-Everybody-Coursera/tree/main/Introduction-to-CSS3/week-2)
+🎈 [**week-2**](https://github.com/santhosh-programmer/Web-Design-for-Everybody-Coursera/tree/main/Introduction-to-CSS3/week-2)
 
-🎈 [week-3](https://github.com/santhosh-programmer/Web-Design-for-Everybody-Coursera/tree/main/Introduction-to-CSS3/week-3)
+🎈 [**week-3**](https://github.com/santhosh-programmer/Web-Design-for-Everybody-Coursera/tree/main/Introduction-to-CSS3/week-3)
 
-🎈 [week-4](https://github.com/santhosh-programmer/Web-Design-for-Everybody-Coursera/tree/main/Introduction-to-CSS3/week-4)
+🎈 [**week-4**](https://github.com/santhosh-programmer/Web-Design-for-Everybody-Coursera/tree/main/Introduction-to-CSS3/week-4)
 

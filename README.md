@@ -22,6 +22,9 @@ Contains solutions to quiz and graded assignment for the course: Web Design for 
 
 🎈 [week-1](https://github.com/santhosh-programmer/Web-Design-for-Everybody-Coursera/tree/main/Introduction-to-CSS3/week-1)
 
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> • [Styling Syntax and Theory quiz](Introduction-to-CSS3/week-1/Styling-Syntax-and-Theory-quiz.md)<br>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> • [Final Quiz - Putting it Together](https://github.com/santhosh-programmer/Web-Design-for-Everybody-Coursera/blob/main/Introduction-to-HTML5/week-3/Final-Quiz-Putting-it-Together.md)
+
 🎈 [week-2](https://github.com/santhosh-programmer/Web-Design-for-Everybody-Coursera/tree/main/Introduction-to-CSS3/week-2)
 
 🎈 [week-3](https://github.com/santhosh-programmer/Web-Design-for-Everybody-Coursera/tree/main/Introduction-to-CSS3/week-3)

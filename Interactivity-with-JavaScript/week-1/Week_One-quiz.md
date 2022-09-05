@@ -26,3 +26,13 @@ Which of these is not valid?  (Hint, pay attention to if the method should retur
     3) document.getElementsByTagName(tagName)
 
 _ANS: 1) document.getElementsById(idName)_<hr>
+
+### Question 4
+Which of the following is not a valid method for generating output to the screen?
+
+1) prompt
+2) alert
+3) document.write
+4) print
+
+_ANS: 4) print_<hr>

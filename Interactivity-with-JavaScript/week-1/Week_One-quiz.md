@@ -17,3 +17,12 @@ JavaScript uses what kind of interface to access the DOM structure?
     3) HTML5
 
 _ANS: 2) an API_<hr>
+
+### Question 3
+Which of these is not valid?  (Hint, pay attention to if the method should return one thing, or many things...)
+
+    1) document.getElementsById(idName)
+    2) document.getElementsByClassName(className)
+    3) document.getElementsByTagName(tagName)
+
+_ANS: 1) document.getElementsById(idName)_<hr>

@@ -47,8 +47,7 @@ Which of these options does NOT require the use of parentheses?
 
 _ANS: 1) innerHTML_<hr>
 
-6.
-Question 6
+### Question 6
 Which of the following does not generate output directly to the screen?
 
     1) document.write(message);
@@ -56,5 +55,15 @@ Which of the following does not generate output directly to the screen?
     3) console.log(message);
 
 _ANS: 3) console.log(message);_<hr>
+
+### Question 7
+How does prompt differ from alert?
+
+    1) Only prompt uses parentheses.
+    2) The prompt will return a value, alert does not.
+    3) The alert will return a value, prompt does not.
+    4) Only alert uses parentheses.
+
+_ANS: 2) The prompt will return a value, alert does not._<hr>
 
 

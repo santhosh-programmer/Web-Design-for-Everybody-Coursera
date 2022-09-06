@@ -36,3 +36,19 @@ Which of the following is not a valid method for generating output to the screen
     4) print
 
 _ANS: 4) print_<hr>
+
+### Question 5
+Which of these options does NOT require the use of parentheses?
+
+    1) innerHTML
+    2) alert
+    3) document.write
+    4) console.log
+
+_ANS: 1) innerHTML_<hr>
+
+
+
+
+prompt
+

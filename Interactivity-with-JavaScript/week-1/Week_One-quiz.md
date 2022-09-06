@@ -73,3 +73,9 @@ Variables allow you to save data.
     2) False
 
 _ANS: 1) True_<hr>
+
+### Question 9
+In JavaScript the keyword ___________ is used to declare a variable.
+
+_ANS: var_<hr>
+

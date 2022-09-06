@@ -66,4 +66,10 @@ How does prompt differ from alert?
 
 _ANS: 2) The prompt will return a value, alert does not._<hr>
 
+### Question 8
+Variables allow you to save data.
 
+    1) True
+    2) False
+
+_ANS: 1) True_<hr>

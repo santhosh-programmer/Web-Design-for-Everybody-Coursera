@@ -2,6 +2,7 @@
 Contains solutions to quiz and graded assignment for the course: Web Design for Everybody: Basics of Web Development &amp; Coding Specialization
 
 ![course image](/images/main.png)
+<hr>
 
 ## [Introduction to HTML5](https://github.com/santhosh-programmer/Web-Design-for-Everybody-Coursera/tree/main/Introduction-to-HTML5)
 🎈 [**week-1**](https://github.com/santhosh-programmer/Web-Design-for-Everybody-Coursera/tree/main/Introduction-to-HTML5/week-1)
@@ -17,6 +18,7 @@ Contains solutions to quiz and graded assignment for the course: Web Design for 
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> • [Final Quiz - Putting it Together](https://github.com/santhosh-programmer/Web-Design-for-Everybody-Coursera/blob/main/Introduction-to-HTML5/week-3/Final-Quiz-Putting-it-Together.md)<br>
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> • [Hosting and Validation](https://github.com/santhosh-programmer/Web-Design-for-Everybody-Coursera/blob/main/Introduction-to-HTML5/week-3/Hosting-and-Validation-quiz.md)<br>
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> • [Peer-graded-Assignment: Final-Project](https://github.com/santhosh-programmer/Web-Design-for-Everybody-Coursera/blob/main/Introduction-to-HTML5/week-3/Peer-graded-Assignment:Final-Project.html)
+<hr>
 
 ## [Introduction to CSS3](https://github.com/santhosh-programmer/Web-Design-for-Everybody-Coursera/tree/main/Introduction-to-CSS3)
 

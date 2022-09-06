@@ -47,8 +47,14 @@ Which of these options does NOT require the use of parentheses?
 
 _ANS: 1) innerHTML_<hr>
 
+6.
+Question 6
+Which of the following does not generate output directly to the screen?
 
+    1) document.write(message);
+    2) element.innerHTML = message;
+    3) console.log(message);
 
+_ANS: 3) console.log(message);_<hr>
 
-prompt
 

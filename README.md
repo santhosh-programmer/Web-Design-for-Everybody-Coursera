@@ -28,8 +28,8 @@ Contains solutions to quiz and graded assignment for the course: Web Design for 
 🎈 [**week-2**](https://github.com/santhosh-programmer/Web-Design-for-Everybody-Coursera/tree/main/Introduction-to-CSS3/week-2)
 
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> • [Advanced Selectors quiz](Introduction-to-CSS3/week-2/Advanced_Selectors-Quiz.md)<br>
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> • [Optional practice quiz](Introduction-to-CSS3/week-1/Styling-Syntax-and-Theory-quiz.md)<br>
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> • [Peer graded Assignment-Advanced style](Introduction-to-CSS3/week-1/Styling-Syntax-and-Theory-quiz.md)
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> • [Optional practice quiz](Introduction-to-CSS3/week-2/Optional_Practice_Quiz-Review.md)<br>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> • [Peer graded Assignment-Advanced style](Introduction-to-CSS3/week-2/Peer_graded_Assignment-Advanced_Style.css)
 
 🎈 [**week-3**](https://github.com/santhosh-programmer/Web-Design-for-Everybody-Coursera/tree/main/Introduction-to-CSS3/week-3)
 

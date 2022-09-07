@@ -79,3 +79,14 @@ In JavaScript the keyword ___________ is used to declare a variable.
 
 _ANS: var_<hr>
 
+### Question 10
+What does it mean that variables are case-sensitive?
+
+    1) That all variables must use uppercase letters
+    2) That the computer does not think that the variables name and Name are the same thing.
+    3) That all variables must use lowercase letters
+
+_ANS: 2) That the computer does not think that the variables name and Name are the same thing._<hr>
+
+
+

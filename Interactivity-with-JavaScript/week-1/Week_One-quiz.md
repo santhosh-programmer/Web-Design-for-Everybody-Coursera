@@ -98,3 +98,11 @@ Which of the following is not a valid variable name?
 
 _ANS: 3) 1variable_<hr>
 
+### Question 12
+Which of the following is not a valid variable name?
+
+    1) variable$2
+    2) variable-2
+    3) variable_2
+
+_ANS: 2) variable-2_<hr>

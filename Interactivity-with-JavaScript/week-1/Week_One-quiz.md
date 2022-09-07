@@ -115,3 +115,19 @@ What does mnemonic mean?
     3) That variable names should help describe the value being stored.
 
 _ANS: 3) That variable names should help describe the value being stored._<hr>
+
+### Question 14
+What is wrong with this code?
+
+    var name = "Mike";
+    "Colleen" = name;
+<br>
+
+    1) It is illegal to change the value stored in a variable.
+    2) This code is illegal and it doesn't make sense to have a non-variable (also called a constant) in the left-hand side (LHS) of an assignment statement.
+    3) The variable declaration is illegal.
+
+_ANS: 2) This code is illegal and it doesn't make sense to have a non-variable (also called a constant) in the left-hand side (LHS) of an assignment statement._<hr>
+
+
+

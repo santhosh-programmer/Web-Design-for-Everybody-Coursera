@@ -88,5 +88,13 @@ What does it mean that variables are case-sensitive?
 
 _ANS: 2) That the computer does not think that the variables name and Name are the same thing._<hr>
 
+### Question 11
+Which of the following is not a valid variable name?
 
+    1) variable1
+    2) variableOne
+    3) 1variable
+    4) oneVariable
+
+_ANS: 3) 1variable_<hr>
 

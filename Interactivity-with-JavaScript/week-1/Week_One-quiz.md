@@ -106,3 +106,12 @@ Which of the following is not a valid variable name?
     3) variable_2
 
 _ANS: 2) variable-2_<hr>
+
+### Question 13
+What does mnemonic mean?
+
+    1) That variable names should start with lowercase letters and use uppercase letters if the variable has multiple parts, e.g. firstName.
+    2) That variable names should be as short as possible, preferably with no more than two or three characters.
+    3) That variable names should help describe the value being stored.
+
+_ANS: 3) That variable names should help describe the value being stored._<hr>

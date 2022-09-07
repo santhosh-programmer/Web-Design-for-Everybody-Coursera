@@ -35,5 +35,9 @@ Contains solutions to quiz and graded assignment for the course: Web Design for 
 
 🎈 [**week-3**](https://github.com/santhosh-programmer/Web-Design-for-Everybody-Coursera/tree/main/Introduction-to-CSS3/week-3)
 
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> • [Final Quiz](Introduction-to-CSS3/week-3/Final_Quiz.md)
+
 🎈 [**week-4**](https://github.com/santhosh-programmer/Web-Design-for-Everybody-Coursera/tree/main/Introduction-to-CSS3/week-4)
+
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> • [Peer-graded Assignment: Styling A Table](Introduction-to-CSS3/week-4/Peer-graded_Assignment:Styling_A_Table.css)
 

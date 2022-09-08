@@ -199,3 +199,11 @@ What value is returned by 17 % 5?
 
 _ANS: 2_<hr>
 
+### Question 23
+What is the difference between == and === ?
+
+    1) The == operator only checks for equivalent values, not equivalent type too.
+    2) The === operator only checks for equivalent values,  not equivalent type too.
+    3) The == operator is the assignment operator, while === is the equality operator.
+
+_ANS: 1) The == operator only checks for equivalent values, not equivalent type too._<hr>

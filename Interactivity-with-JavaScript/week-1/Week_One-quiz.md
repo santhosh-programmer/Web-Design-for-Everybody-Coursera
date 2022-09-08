@@ -136,5 +136,14 @@ What value is stored in name if the person hits the Cancel button on a prompt?
 
 _ANS: null_<hr>
 
+### Question 16
+What value is stored in name if the person hits the Okay button on a prompt before entering anything?
 
+    var name = prompt("What is your name?");
+<br>
 
+    1) an empty string ("")
+    2) undefined
+    3) exception
+  
+_ANS: 1) an empty string ("")_<hr>

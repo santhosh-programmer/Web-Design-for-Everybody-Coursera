@@ -207,3 +207,8 @@ What is the difference between == and === ?
     3) The == operator is the assignment operator, while === is the equality operator.
 
 _ANS: 1) The == operator only checks for equivalent values, not equivalent type too._<hr>
+
+### Question 24
+What is the logical operator for AND?
+
+_ANS: &&_<hr>

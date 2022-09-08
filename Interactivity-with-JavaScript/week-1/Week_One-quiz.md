@@ -147,3 +147,18 @@ What value is stored in name if the person hits the Okay button on a prompt befo
     3) exception
   
 _ANS: 1) an empty string ("")_<hr>
+
+### Question 17
+To create a String variable, use quotes around the value you want to save.
+
+    1) True
+    2) False
+
+_ANS: 1)True_<hr>
+
+
+
+
+
+
+

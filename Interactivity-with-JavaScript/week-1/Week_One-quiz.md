@@ -154,7 +154,7 @@ To create a String variable, use quotes around the value you want to save.
     1) True
     2) False
 
-_ANS: 1)True_<hr>
+_ANS: 1) True_<hr>
 
 ### Question 18
 Boolean variables store either true or false.
@@ -162,10 +162,17 @@ Boolean variables store either true or false.
     1) True
     2) False
 
-_ANS: 1)True_<hr>
+_ANS: 1) True_<hr>
 
+### Question 19
+When a function returns a node from the DOM, it is of type
 
+    1) Number
+    2) String
+    3) Boolean
+    4) Object
 
+_ANS: 4) Object_<hr>
 
 
 

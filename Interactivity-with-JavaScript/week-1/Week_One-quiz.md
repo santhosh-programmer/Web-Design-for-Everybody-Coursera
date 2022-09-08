@@ -183,3 +183,14 @@ A function that wants to return multiple values at once (such as document.getEle
 
 _ANS: 3) Array_<hr>
 
+### Question 21
+Which of the following is not a valid operator?
+
+    1) =+
+    2) +=
+    3) ==
+    4) ++
+    5) --
+
+_ANS: 1) =+_<hr>
+

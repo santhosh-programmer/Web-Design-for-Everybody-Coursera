@@ -174,5 +174,12 @@ When a function returns a node from the DOM, it is of type
 
 _ANS: 4) Object_<hr>
 
+### Question 20
+A function that wants to return multiple values at once (such as document.getElementsByTagName) will return a/an
 
+    1) Number
+    2) String
+    3) Array
+
+_ANS: 3) Array_<hr>
 

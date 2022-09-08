@@ -212,3 +212,12 @@ _ANS: 1) The == operator only checks for equivalent values, not equivalent type 
 What is the logical operator for AND?
 
 _ANS: &&_<hr>
+
+### Question 25
+Which tag is used to let the browser know that it is about to see JavaScript code?
+
+    1) <script>
+    2) <head>
+    3) <javascript>
+
+_ANS: 1) <script>_<hr>

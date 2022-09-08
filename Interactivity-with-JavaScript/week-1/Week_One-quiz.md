@@ -194,3 +194,8 @@ Which of the following is not a valid operator?
 
 _ANS: 1) =+_<hr>
 
+### Question 22
+What value is returned by 17 % 5?
+
+_ANS: 2_<hr>
+

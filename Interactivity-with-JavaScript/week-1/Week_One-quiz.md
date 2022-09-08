@@ -221,3 +221,13 @@ Which tag is used to let the browser know that it is about to see JavaScript cod
     3) <javascript>
 
 _ANS: 1) <script>_<hr>
+
+### Question 26
+JavaScript code must be placed in the <head> section of the document.
+
+    1) True
+    2) False
+
+_ANS: 2) False_<hr>
+    
+    

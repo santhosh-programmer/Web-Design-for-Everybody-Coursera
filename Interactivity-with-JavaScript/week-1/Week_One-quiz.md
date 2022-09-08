@@ -129,5 +129,12 @@ What is wrong with this code?
 
 _ANS: 2) This code is illegal and it doesn't make sense to have a non-variable (also called a constant) in the left-hand side (LHS) of an assignment statement._<hr>
 
+### Question 15
+What value is stored in name if the person hits the Cancel button on a prompt?
+
+    var name = prompt("What is your name?");
+
+_ANS: null_<hr>
+
 
 

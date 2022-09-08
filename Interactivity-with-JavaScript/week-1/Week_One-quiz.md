@@ -156,6 +156,13 @@ To create a String variable, use quotes around the value you want to save.
 
 _ANS: 1)True_<hr>
 
+### Question 18
+Boolean variables store either true or false.
+
+    1) True
+    2) False
+
+_ANS: 1)True_<hr>
 
 
 

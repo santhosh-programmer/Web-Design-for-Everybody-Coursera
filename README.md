@@ -41,5 +41,5 @@ Contains solutions to quiz and graded assignment for the course: Web Design for 
 
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> • [Peer-graded Assignment: Styling A Table](Introduction-to-CSS3/week-4/Peer-graded_Assignment:Styling_A_Table.css)
 
-## [Interactivity with Javascript](https://github.com/santhosh-programmer/Web-Design-for-Everybody-Coursera/tree/main/Interactivity-with-javascript)
+## [Interactivity with Javascript](https://github.com/santhosh-programmer/Web-Design-for-Everybody-Coursera/tree/main/Interactivity-with-JavaScript)
 

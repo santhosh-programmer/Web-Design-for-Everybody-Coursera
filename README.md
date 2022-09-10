@@ -47,8 +47,8 @@ Contains solutions to quiz and graded assignment for the course: Web Design for 
 
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> • [Week One Quiz](Interactivity-with-JavaScript/week-1/Week_One-quiz.md)
 
-🎈 [**week-2**](https://github.com/santhosh-programmer/Web-Design-for-Everybody-Coursera/tree/main/Interactivity-with-JavaScript/week-2)
+🎈 [**week-2**](Interactivity-with-JavaScript/week-2)
 
-
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> • [Week One Quiz](Interactivity-with-JavaScript/week-2/JavaScript_Interactive_Photo_Gallery.js)
 
 

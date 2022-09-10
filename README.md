@@ -49,6 +49,6 @@ Contains solutions to quiz and graded assignment for the course: Web Design for 
 
 🎈 [**week-2**](Interactivity-with-JavaScript/week-2)
 
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> • [Week One Quiz](Interactivity-with-JavaScript/week-2/JavaScript_Interactive_Photo_Gallery.js)
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> • [JavaScript Interactive Photo Gallery](Interactivity-with-JavaScript/week-2/JavaScript_Interactive_Photo_Gallery.js)
 
 

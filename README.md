@@ -43,3 +43,10 @@ Contains solutions to quiz and graded assignment for the course: Web Design for 
 
 ## [Interactivity with Javascript](https://github.com/santhosh-programmer/Web-Design-for-Everybody-Coursera/tree/main/Interactivity-with-JavaScript)
 
+🎈 [**week-1**](Web-Design-for-Everybody-Coursera/Interactivity-with-JavaScript/week-1)
+
+🎈 [**week-2**](Web-Design-for-Everybody-Coursera/Interactivity-with-JavaScript/week-2)
+
+
+
+

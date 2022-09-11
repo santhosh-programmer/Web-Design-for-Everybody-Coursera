@@ -12,3 +12,12 @@ Which is the correct syntax to change the contents of the HTML element below?
 4) document.getElementsByTagName('p').innerHTML("New content!");
 
 _ANS: 2) document.getElementById('quiz').innerHTML = "New content!";_<hr>
+
+### Question 2
+Where can you put JavaScript?
+
+    1) In the head and body section
+    2) Just in the <body> section
+    3) Just in the <head> section
+
+_ANS: 1) In the head and body section_<hr>

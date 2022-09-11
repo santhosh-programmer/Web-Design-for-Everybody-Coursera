@@ -21,3 +21,11 @@ Where can you put JavaScript?
     3) Just in the <head> section
 
 _ANS: 1) In the head and body section_<hr>
+
+### Question 3
+Built-in JavaScript functions (alert, prompt, etc) cannot be mixed in with other HTML code unless you use the <script> tag.
+
+1) True
+2) False
+    
+_ANS: 2) False_<hr>

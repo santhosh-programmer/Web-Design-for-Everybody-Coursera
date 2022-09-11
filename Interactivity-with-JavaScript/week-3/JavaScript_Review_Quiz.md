@@ -25,19 +25,19 @@ _ANS: 1) In the head and body section_<hr>
 ### Question 3
 Built-in JavaScript functions (alert, prompt, etc) cannot be mixed in with other HTML code unless you use the <script> tag.
 
-1) True
-2) False
+    1) True
+    2) False
     
 _ANS: 2) False_<hr>
 
 ### Question 4
 Which of the following is the proper way to link to an external JavaScript file?
 
-1) <script = “file.js”></script>
-2) <script href=“file.js”></script>
-3) <script file = “file.js”></script>
-4) <script>”file.js”</script>
-5) <script src = “file.js”></script>
+    1) <script = “file.js”></script>
+    2) <script href=“file.js”></script>
+    3) <script file = “file.js”></script>
+    4) <script>”file.js”</script>
+    5) <script src = “file.js”></script>
     
 _ANS: 5) <script src = “file.js”></script>_<hr>
     

@@ -46,3 +46,9 @@ Which keyword is used to define a function in JavaScript?
     
 _ANS: function_<hr>
     
+### Question 6
+If a function is defined twice, the first declaration will be called when used.
+
+    1) True
+    2) False
+_ANS: 2)False_<hr>

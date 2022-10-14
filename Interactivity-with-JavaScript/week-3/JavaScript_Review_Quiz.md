@@ -41,5 +41,8 @@ Which of the following is the proper way to link to an external JavaScript file?
     
 _ANS: 5) <script src = “file.js”></script>_<hr>
     
+### Question 5
+Which keyword is used to define a function in JavaScript?
     
+_ANS: function_<hr>
     

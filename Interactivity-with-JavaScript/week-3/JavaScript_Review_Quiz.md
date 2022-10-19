@@ -62,4 +62,10 @@ A function can be called multiple times in a single file.
 
 _ANS: 1)True_<hr>
     
-    
+### Question 8
+You can define a function without calling it.
+
+1) True
+2) False
+
+_ANS: 1) True_<hr>

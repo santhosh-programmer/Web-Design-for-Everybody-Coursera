@@ -51,4 +51,15 @@ If a function is defined twice, the first declaration will be called when used.
 
     1) True
     2) False
+    
 _ANS: 2)False_<hr>
+    
+### Question 7
+A function can be called multiple times in a single file.
+
+    1) True
+    2) False
+
+_ANS: 1)True_<hr>
+    
+    

@@ -69,3 +69,11 @@ You can define a function without calling it.
 2) False
 
 _ANS: 1) True_<hr>
+
+### Question 9
+You can call a function without it being defined.
+
+1) True
+2) False
+
+_ANS: 2) False_<hr>

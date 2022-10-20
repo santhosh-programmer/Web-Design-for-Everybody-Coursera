@@ -85,3 +85,20 @@ Conditional statements change the flow of execution in a program — the “next
     2) False
 
 _ANS: 1) True_<hr>
+
+### Question 11
+What is true about this code?
+
+    <a href = "http://www.umich.edu" onclick = "return true">University of Michigan</a><br/>
+
+    <a href = "#" onclick = "alert(this.href)">University of Michigan </a><br/>	
+
+    <a href = "page2.html" onclick = "alert(this.href)">University of Michigan </a><br/>
+<br>
+
+1) Only the first link will take you to the University of Michigan website .
+2) Only the second link will take you to the University of Michigan website.
+3) Only the third link will take you to the University of Michigan website.
+4) None of the links will take you to the University of Michigan website.
+    
+_ANS: 1) Only the first link will take you to the University of Michigan website ._<hr>

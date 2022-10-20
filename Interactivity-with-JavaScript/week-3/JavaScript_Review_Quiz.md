@@ -131,4 +131,13 @@ Note, you can't assume that this is the second paragraph.
 
 _ANS: document.getElementById('second').innerHTML="What does the Fox say?";_<hr>
     
-    
+### Question 14
+Assume you have a page with four paragraph tags.  What is the proper JavaScript code to change the content of the second paragraph to "What does the Fox say?"
+
+    1) document.getElementByTagName('p')[2].innerHTML = "What does the Fox say?"
+    2) document.getElementsByTagName('p').innerHTML = "What does the Fox say?"
+    3) document.getElementsByTagName('p')[1].innerHTML = "What does the Fox say?"
+    4) document.getElementById('second').innerHTML = "What does the Fox say?"
+    5) document.getElementById('p')[2].innerHTML = "What does the Fox say?"    
+
+_ANS: 3) document.getElementsByTagName('p')[1].innerHTML = "What does the Fox say?"_<hr>

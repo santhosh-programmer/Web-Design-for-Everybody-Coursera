@@ -102,3 +102,22 @@ What is true about this code?
     4) None of the links will take you to the University of Michigan website.
     
 _ANS: 1) Only the first link will take you to the University of Michigan website ._<hr>
+    
+### Question 12
+What is true about this code?
+    
+    <a href = "http://www.umich.edu" onclick = "alert(this.href)">University of Michigan</a><br/>
+
+    <a href = "#" onclick = "alert(this.href)">University of Michigan </a><br/>	
+
+    <a href = "page2.html" onclick = "alert(this.href)">University of Michigan </a><br/> 
+<br>
+    
+    1) Only the first link will produce the alert  “http://www.umich.edu/“.
+    2) Only the second link will produce the alert  “http://www.umich.edu/“.
+    3) Only the third link will produce the alert  “http://www.umich.edu/“.
+    4) None of the links will produce the alert  “http://www.umich.edu/“.
+    
+_ANS: 1) Only the first link will produce the alert  “http://www.umich.edu/“._<hr>
+    
+    

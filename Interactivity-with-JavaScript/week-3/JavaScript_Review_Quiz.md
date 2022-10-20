@@ -141,3 +141,16 @@ Assume you have a page with four paragraph tags.  What is the proper JavaScript 
     5) document.getElementById('p')[2].innerHTML = "What does the Fox say?"    
 
 _ANS: 3) document.getElementsByTagName('p')[1].innerHTML = "What does the Fox say?"_<hr>
+
+### Question 15
+How do you properly access the first element in an array variable named "fruit"
+
+    1) fruit[0]
+    2) fruit[1]
+    3) [fruit]0
+    4) fruit_0
+    5) None of the above.
+
+_ANS: 1) fruit[0]_<hr>
+    
+    

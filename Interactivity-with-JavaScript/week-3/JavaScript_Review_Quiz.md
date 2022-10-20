@@ -120,4 +120,15 @@ What is true about this code?
     
 _ANS: 1) Only the first link will produce the alert  “http://www.umich.edu/“._<hr>
     
+### Question 13
+Assume you have a page with four paragraph tags, one of which has the id "second".  What is the proper JavaScript code to change the content of that  paragraph to "What does the Fox say?"
+
+Note:
+
+The quotes shouldn't be part of the value.
+Please end the line of code with a semicolon.
+Note, you can't assume that this is the second paragraph.  
+
+_ANS: document.getElementById('second').innerHTML="What does the Fox say?";_<hr>
+    
     

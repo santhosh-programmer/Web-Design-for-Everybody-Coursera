@@ -77,3 +77,11 @@ You can call a function without it being defined.
     2) False
 
 _ANS: 2) False_<hr>
+
+### Question 10
+Conditional statements change the flow of execution in a program — the “next” line of code in the program is not always the next one that is executed.
+
+    1) True
+    2) False
+
+_ANS: 1) True_<hr>

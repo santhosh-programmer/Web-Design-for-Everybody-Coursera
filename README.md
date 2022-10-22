@@ -51,4 +51,12 @@ Contains solutions to quiz and graded assignment for the course: Web Design for 
 
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> • [JavaScript Interactive Photo Gallery](Interactivity-with-JavaScript/week-2/JavaScript_Interactive_Photo_Gallery.js)
 
+🎈 [**week-3**](Interactivity-with-JavaScript/week-3)
+
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> • [JavaScript Review Quiz](Interactivity-with-JavaScript/week-3/JavaScript_Review_Quiz.md)
+
+🎈 [**week-4**](Interactivity-with-JavaScript/week-4)
+
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> • [Autocomplete with JavaScript](Interactivity-with-JavaScript/week-4/Autocomplete_with_JavaScript.html)
+
 

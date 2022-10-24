@@ -36,3 +36,11 @@ Which of the following is a true statement about using  a separate "m." site for
     3) Users have control over which version of the page they can see, regardless of the device they are using.
 
 _ANS: 1) It is difficult to keep multiple versions of your site consistent.  Any updates must be made in multiple places._<hr>
+
+### Question 5
+The mobile version of your web page should have the same capabilities of every other version of your site.
+
+    1) True
+    2) False
+
+_ANS: 1) True_<hr>

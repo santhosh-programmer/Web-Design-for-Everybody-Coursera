@@ -27,3 +27,12 @@ Adaptive design with dynamic serving is....
     3) Designing multiple pages, one for each type of major device (phone, tablet, laptop, and desktop)
 
 _ANS: 3) Designing multiple pages, one for each type of major device (phone, tablet, laptop, and desktop)_<hr>
+
+### Question 4
+Which of the following is a true statement about using  a separate "m." site for your content?
+
+    1) It is difficult to keep multiple versions of your site consistent.  Any updates must be made in multiple places.
+    2) Some search engines require a .m version of your site.
+    3) Users have control over which version of the page they can see, regardless of the device they are using.
+
+_ANS: 1) It is difficult to keep multiple versions of your site consistent.  Any updates must be made in multiple places._<hr>

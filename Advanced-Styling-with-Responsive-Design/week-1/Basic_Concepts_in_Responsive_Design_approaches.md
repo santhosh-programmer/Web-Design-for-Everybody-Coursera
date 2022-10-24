@@ -18,3 +18,12 @@ Responsive Web Design is...
     3) Designing pages for multiple platforms by incorporating fluid measurements and varying CSS rules.
 
 _ANS: 3) Designing pages for multiple platforms by incorporating fluid measurements and varying CSS rules._<hr>
+
+### Question 3
+Adaptive design with dynamic serving is....
+
+    1) Designing pages for multiple platforms by incorporating fluid measurements and varying CSS rules.
+    2) Designing pages for the mobile view.
+    3) Designing multiple pages, one for each type of major device (phone, tablet, laptop, and desktop)
+
+_ANS: 3) Designing multiple pages, one for each type of major device (phone, tablet, laptop, and desktop)_<hr>

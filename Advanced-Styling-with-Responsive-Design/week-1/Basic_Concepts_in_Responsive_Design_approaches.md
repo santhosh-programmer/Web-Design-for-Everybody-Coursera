@@ -44,3 +44,13 @@ The mobile version of your web page should have the same capabilities of every o
     2) False
 
 _ANS: 1) True_<hr>
+
+### Question 6
+The mobile version of your web page should have the same layout of every other version of your site.
+
+1) True
+2) False
+
+_ANS: 2) False_<hr>
+
+

@@ -57,3 +57,8 @@ _ANS: 2) False_<hr>
 Which fluid measurement type returns a percentage of the viewport width?
 
 _ANS: vw_<hr>
+
+### Question 8
+Which fluid measurement type returns a percentage of the viewport height?
+
+_ANS: vh_<hr>

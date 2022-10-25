@@ -62,3 +62,11 @@ _ANS: vw_<hr>
 Which fluid measurement type returns a percentage of the viewport height?
 
 _ANS: vh_<hr>
+
+### Question 9
+The fluid measurement % can only be used on non-textual elements
+
+    1) True
+    2) False
+
+_ANS: 2) False_<hr>

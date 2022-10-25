@@ -70,3 +70,11 @@ The fluid measurement % can only be used on non-textual elements
     2) False
 
 _ANS: 2) False_<hr>
+
+### Question 10
+Responsive sites can have a mixture of fluid and absolute measurements.
+
+    1) True
+    2) False
+
+_ANS: 1) True_<hr>

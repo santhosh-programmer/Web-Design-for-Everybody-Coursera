@@ -4,7 +4,7 @@ Contains solutions to quiz and graded assignment for the course: Web Design for 
 ![course image](/images/main.png)
 <hr>
 
-## [Introduction to HTML5](https://github.com/santhosh-programmer/Web-Design-for-Everybody-Coursera/tree/main/Introduction-to-HTML5)
+## [💘 Introduction to HTML5](https://github.com/santhosh-programmer/Web-Design-for-Everybody-Coursera/tree/main/Introduction-to-HTML5)
 🎈 [**week-1**](https://github.com/santhosh-programmer/Web-Design-for-Everybody-Coursera/tree/main/Introduction-to-HTML5/week-1)
 
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> • [Quiz](https://github.com/santhosh-programmer/Web-Design-for-Everybody-Coursera/blob/main/Introduction-to-HTML5/week-1/quiz.md)
@@ -20,7 +20,7 @@ Contains solutions to quiz and graded assignment for the course: Web Design for 
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> • [Peer-graded-Assignment: Final-Project](https://github.com/santhosh-programmer/Web-Design-for-Everybody-Coursera/blob/main/Introduction-to-HTML5/week-3/Peer-graded-Assignment:Final-Project.html)
 <hr>
 
-## [Introduction to CSS3](https://github.com/santhosh-programmer/Web-Design-for-Everybody-Coursera/tree/main/Introduction-to-CSS3)
+## [💘 Introduction to CSS3](https://github.com/santhosh-programmer/Web-Design-for-Everybody-Coursera/tree/main/Introduction-to-CSS3)
 
 🎈 [**week-1**](https://github.com/santhosh-programmer/Web-Design-for-Everybody-Coursera/tree/main/Introduction-to-CSS3/week-1)
 
@@ -43,7 +43,7 @@ Contains solutions to quiz and graded assignment for the course: Web Design for 
 
 <hr>
 
-## [Interactivity with Javascript](Interactivity-with-JavaScript)
+## [💘 Interactivity with Javascript](Interactivity-with-JavaScript)
 
 🎈 [**week-1**](Interactivity-with-JavaScript/week-1)
 
@@ -61,4 +61,11 @@ Contains solutions to quiz and graded assignment for the course: Web Design for 
 
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> • [Autocomplete with JavaScript](Interactivity-with-JavaScript/week-4/Autocomplete_with_JavaScript.html)
 
+<hr>
+
+## [💘 Advanced Styling with Responsive Design](Advanced-Styling-with-Responsive-Design)
+
+🎈 [**week-1**](Advanced-Styling-with-Responsive-Design/week-1)
+
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> • [Basic Concepts in Responsive Design approaches](Advanced-Styling-with-Responsive-Design/week-1/Basic_Concepts_in_Responsive_Design_approaches.md)
 

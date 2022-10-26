@@ -112,4 +112,7 @@ A _______ is the size of type as computed relative to the type size of the top l
 
 _ANS: rem_<hr>
 
+### Question 16
+Which measurement is easier and comfortable for the designer/developer to use when coding their CSS but does not provide the best experience for the user?  
 
+_ANS: px_<hr>

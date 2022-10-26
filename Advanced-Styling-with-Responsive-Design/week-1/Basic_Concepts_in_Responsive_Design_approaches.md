@@ -88,3 +88,12 @@ Which of the following statements best describes what pixels, ems, and rems have
 
 _ANS: 1) They are all units of measurement used to define the length of elements on a webpage._<hr>
 
+### Question 12
+Which of the following measurements is relative to the size of its parent element?
+
+    1) px
+    2) em
+    3) rem
+
+_ANS: 2) em_<hr>
+

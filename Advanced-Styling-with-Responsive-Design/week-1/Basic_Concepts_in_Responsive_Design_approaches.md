@@ -97,3 +97,8 @@ Which of the following measurements is relative to the size of its parent elemen
 
 _ANS: 2) em_<hr>
 
+### Question 13
+If you have an element with the font size of 24px, and a child element inside with a font-size set to .5em, what is the font size of the child in px?  (Provide a number only, not the measurement too.)
+
+_ANS: 12_<hr>
+

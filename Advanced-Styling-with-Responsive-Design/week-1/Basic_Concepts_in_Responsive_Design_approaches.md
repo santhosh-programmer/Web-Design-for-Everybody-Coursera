@@ -102,3 +102,9 @@ If you have an element with the font size of 24px, and a child element inside wi
 
 _ANS: 12_<hr>
 
+### Question 14
+An _______ is the size of type as computed relative to the type size of the parent element.
+
+_ANS: em_<hr>
+
+

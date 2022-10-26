@@ -116,3 +116,8 @@ _ANS: rem_<hr>
 Which measurement is easier and comfortable for the designer/developer to use when coding their CSS but does not provide the best experience for the user?  
 
 _ANS: px_<hr>
+
+### Question 17
+1 _____ = 1% of viewport height
+
+_ANS: vh_<hr>

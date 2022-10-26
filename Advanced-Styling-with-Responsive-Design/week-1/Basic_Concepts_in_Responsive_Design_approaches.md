@@ -78,3 +78,13 @@ Responsive sites can have a mixture of fluid and absolute measurements.
     2) False
 
 _ANS: 1) True_<hr>
+
+### Question 11
+Which of the following statements best describes what pixels, ems, and rems have in common?
+
+    1) They are all units of measurement used to define the length of elements on a webpage.
+    2) They are all fluid units of measurement that define the screen resolution of a page.
+    3) They are all fluid units of measurement used to define the length of elements on a webpage.
+
+_ANS: 1) They are all units of measurement used to define the length of elements on a webpage._<hr>
+

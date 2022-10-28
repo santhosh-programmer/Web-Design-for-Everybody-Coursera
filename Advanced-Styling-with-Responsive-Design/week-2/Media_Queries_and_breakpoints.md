@@ -91,6 +91,8 @@ Which of the following code segments will keep people from being able to zoom in
     1) <meta name = ‘viewport’ content=‘width=device-width, initial-scale=1, maximum-scale = 1’>
     2) <meta name = ‘viewport’ content=‘width=device-width, initial-scale=1’>
     3) It is impossible to lock the zoom ability
-
-_ANS: 1) <meta name = ‘viewport’ content=‘width=device-width, initial-scale=1, maximum-scale = 1’>_<hr>
+<br>
+    
+    ANS: 1) <meta name = ‘viewport’ content=‘width=device-width, initial-scale=1, maximum-scale = 1’>
+<hr>
 

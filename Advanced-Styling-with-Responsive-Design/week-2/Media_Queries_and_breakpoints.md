@@ -63,3 +63,24 @@ What is the width of any div elements on a 750px screen?
     4) 80%
 
 _ANS: 4) 80%_<hr>
+
+### Question 4
+Consider the following CSS rule:
+
+    div{
+        width: 80%;
+    }
+
+    @media print {
+        div{
+           width: 25%;
+        }
+    }
+
+Which of the following is a true statement?
+
+    1) The div elements will have a width of 80% only when the page is printed
+    2) The div elements will have a width of 25% only when the page is printed
+    3) The div elements will only visible only when the page is printed
+
+_ANS: 2) The div elements will have a width of 25% only when the page is printed_<hr>

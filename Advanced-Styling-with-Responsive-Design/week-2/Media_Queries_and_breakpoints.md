@@ -84,3 +84,13 @@ Which of the following is a true statement?
     3) The div elements will only visible only when the page is printed
 
 _ANS: 2) The div elements will have a width of 25% only when the page is printed_<hr>
+
+### Question 5
+Which of the following code segments will keep people from being able to zoom in or out on your content?
+
+    1) <meta name = ‘viewport’ content=‘width=device-width, initial-scale=1, maximum-scale = 1’>
+    2) <meta name = ‘viewport’ content=‘width=device-width, initial-scale=1’>
+    3) It is impossible to lock the zoom ability
+
+_ANS: 1) <meta name = ‘viewport’ content=‘width=device-width, initial-scale=1, maximum-scale = 1’>_<hr>
+

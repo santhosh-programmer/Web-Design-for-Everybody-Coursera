@@ -96,3 +96,10 @@ Which of the following code segments will keep people from being able to zoom in
     ANS: 1) <meta name = ‘viewport’ content=‘width=device-width, initial-scale=1, maximum-scale = 1’>
 <hr>
 
+### Question 6
+Breakpoints often correspond with common screen sizes for phones, tablets, and laptops.
+
+    1) True
+    2) False
+    
+_ANS: 1) True_<hr>

@@ -103,3 +103,13 @@ Breakpoints often correspond with common screen sizes for phones, tablets, and l
     2) False
     
 _ANS: 1) True_<hr>
+
+### Question 7
+Wireframes should...
+
+    1) specify the layout, color, and content of your pages
+    2) specify the layout of your pages
+    3) specify the layout and content of your pages
+
+_ANS: 3) specify the layout and content of your pages_<hr>
+

@@ -113,3 +113,12 @@ Wireframes should...
 
 _ANS: 3) specify the layout and content of your pages_<hr>
 
+### Question 8
+A key component of your wireframes should test  
+
+    1) interaction
+    2) color schemes
+    3) code syntax
+
+_ANS: 1) interaction_<hr>
+

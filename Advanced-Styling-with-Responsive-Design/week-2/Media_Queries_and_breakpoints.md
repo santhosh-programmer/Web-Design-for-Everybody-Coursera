@@ -126,3 +126,16 @@ _ANS: 1) interaction_<hr>
 Give an example screen width size for a mobile phone using pixels.  (Just provide a number, and not the px!!!)
 
 _ANS: 720_<hr>
+
+### Question 10
+Which of the following is a deprecated media type -- meaning they are omitted in later versions.   (You will need to search for this online it is not in the notes.  But a lot of what you do with web design will require a little searching!) 
+
+    1) all
+    2) braille
+    3) speech
+    4) print
+    5) screen
+
+_ANS: 2) braille_<hr>
+
+

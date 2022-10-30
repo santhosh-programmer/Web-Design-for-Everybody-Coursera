@@ -122,3 +122,7 @@ A key component of your wireframes should test
 
 _ANS: 1) interaction_<hr>
 
+### Question 9
+Give an example screen width size for a mobile phone using pixels.  (Just provide a number, and not the px!!!)
+
+_ANS: 720_<hr>
